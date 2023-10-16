@@ -6,3 +6,5 @@ z=3
 print(z)
 a=4
 print(a)
+b=7
+print(b)
